@@ -1,4 +1,4 @@
-GroundStudio
+GroundStudio L9110s Dual Motor Driver Module
 ====================================
 ![L9110s module REV0 0 2](https://github.com/GroundStudio/GroundStudio_L9110s_module/assets/77836107/67b6f87e-ae12-4fbc-a820-1d9cf08eb7e3)
 
