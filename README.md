@@ -31,3 +31,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000014.html)   
+   
+[![certification-mark-RO000014-wide](https://github.com/GroundStudio/GroundStudio_L9110s_module/assets/77836107/299749f2-8519-4f22-90a8-95ecb35377ed)
+](https://certification.oshwa.org/ro000014.html)
+
